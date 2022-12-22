@@ -1,0 +1,2 @@
+AVLTree{root=Node{item=4, height=3, left=Node{item=2, height=2, left=Node{item=1, height=1, left=null, right=null}, right=Node{item=3, height=1, left=null, right=null}}, right=Node{item=7, height=2, left=Node{item=5, height=1, left=null, right=null}, right=Node{item=8, height=1, left=null, right=null}}}, TreeNum1=0, TreeNum2=0, TreeNum3=0, TreeNum4=0, TreeNum5=0, TreeNum6=0, TreeNum7=0, TreeNum8=0}
+Inputted Numbers: 1, 2, 3, 4, 5, 6, 7, 8
